@@ -10,5 +10,5 @@ spring:
 env:
   dev1
 girl:
-  name: xiaowang
-  age: 21
+  name: xiaozhao
+  age: 22
