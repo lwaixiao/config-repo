@@ -10,5 +10,5 @@ spring:
 env:
   dev1
 girl:
-  name:  wangyyangyang1
+  name:  lihongji
   age: 14
