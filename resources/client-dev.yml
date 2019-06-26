@@ -10,4 +10,4 @@ spring:
 env: t3st
 girl:
   name: fa21
-  age: 33
+  age: 31
