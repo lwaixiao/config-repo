@@ -7,8 +7,7 @@ eureka:
 spring:
   application: 
     name: client
-env:
-  dev1
+env: dev
 girl:
-  name:  lihongji
+  name: lihongji
   age: 19
