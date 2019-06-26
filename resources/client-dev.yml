@@ -10,5 +10,5 @@ spring:
 env:
   dev1
 girl:
-  name:  yangyang1
+  name:  wangyyangyang1
   age: 25
