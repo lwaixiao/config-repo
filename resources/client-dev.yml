@@ -7,7 +7,7 @@ eureka:
 spring:
   application: 
     name: client
-env: dev
+env: t3st
 girl:
   name: drfsdf123
   age: 33
