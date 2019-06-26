@@ -9,5 +9,5 @@ spring:
     name: client
 env: dev
 girl:
-  name: lihongji111143
+  name: 1212
   age: 33
