@@ -7,7 +7,7 @@ eureka:
 spring:
   application: 
     name: client
-env: t3st
+env: 1111
 girl:
   name: fa21123
   age: 31
