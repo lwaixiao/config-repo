@@ -9,5 +9,5 @@ spring:
     name: client
 env: test
 girl:
-  name: lihongji222
+  name: wangyangyang
   age: 19
