@@ -6,7 +6,7 @@ eureka:
     hostname: client
 spring:
   application: 
-    name: client
+    name: myclient
 env: test
 girl:
   name: wangyangyang222
